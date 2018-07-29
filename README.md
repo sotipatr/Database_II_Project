@@ -1,7 +1,7 @@
 # Database_II_Project
 This is a web application that uses a Database with songs. The user picks one song of the song list in the Database and the application produces a list with the songs that is mostly close to the sound of the selected song (useing similarity queries). __
 ##This procedure has the 6 basic steps:##
-*The 1st one is to pick the song list and add it in the Database__
+*The 1st one is to pick the song list and add it in the Database<br />
 *The 2nd is to export specific attributes (chroma vectors), using the __Matlab Toolbox: Matlab Audio Analysis Library____
   The order of execution of the Matlab Audio Analysis Library functions is as follows:__
     1. __create_data.m__: reading items in the songs folder__
