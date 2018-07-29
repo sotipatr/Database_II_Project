@@ -1,0 +1,26 @@
+
+												Τραγούδια			Ομοιότητα			
+												i1	  i2			θέση1/θέση2
+
+Come_Together									1     3           	13/ 7
+Caroline_No										2     5           	26/24
+All_Along_the_Watchtower						4     7            	21/3
+All_Along_the_Watchtower						4     14            10/4
+All_Along_the_Watchtower						4     26            11/6
+Before_You_Accuse_Me							6     10            3/1
+Claudette										11    19            1/1
+Between_The_Bars								8     12            13/14
+Cocaine											9     15            2/12
+All_Tomorrow_s_Parties						    13    27            22/26
+America											16    20            1/1
+Cecilia											17    21            1/1
+Abracadabra										22    24            9/8
+All_Along_the_Watchtower						7     14            10/19
+All_Along_the_Watchtower						7     26            6/23
+All_Along_the_Watchtower						14    26            13/14
+
+Τα τραγούδια i1 και i2 είναι διαφορετικές εκτελέσεις του ίδιου τραγουδιού
+Για παράδειγμα, για τη πρώτη γραμμή: για ερώτημα ομοιότητας ως προς το τραγούδι 1 το τραγούδι 3 επιστρέφεται στην 13η θέση/ 
+ενώ για ερώτημα ομοιότητας ως προς το τραγούδι 3 το τραγούδι 1 επιστρέφεται στην 7η θέση,
+
+Οι τίτλοι των τραγουδιών που αντιστοιχούν στις παραπάνω θέσεις περιέχονται στο αρχείο thesh_tragoudiwn.txt
