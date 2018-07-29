@@ -22,3 +22,5 @@ the user's similarity queries.
 * The 6th step is the construction Graphical User Interface (GUI) of the application, that uses a web page that offers 2 different kind of searches:
   * ___Search by metadata___ (__search.php__): The user selects a category or artistor song title and the application returns the list of songs that satisfy the key search. 
   * ___Search by song content___ (__search_similar.php__): The user enters the song title of a song and a number k of the desired results and the most similar songs of the selected one are returned.
+
+##### This project was a 3-person group project. #####
